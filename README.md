@@ -1,2 +1,2 @@
-# SQL Queries: Salika
+# SQL Queries: Sakila
  SQL Queries exercise
